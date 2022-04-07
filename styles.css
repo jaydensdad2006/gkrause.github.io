@@ -1,0 +1,27 @@
+body	{
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #0000FF;
+	line-height: 2em;
+	background-image: url(images/200.gif);
+    background-size: cover;
+    background-repeat: repeat;
+	height: max-content;
+}
+
+a:link	{
+	font-weight: bold;
+	color: #0000FF;
+	text-decoration: underline overline;
+}
+a:hover	{
+	font-style: italic;
+	font-weight: bold;
+	color: #6666CC;
+	text-decoration: underline overline;
+}
+h1 {
+    text-align: center;
+    font-family: century schoolbook, Times New Roman, Times, serif; 
+    color: #0000FF;
+}
